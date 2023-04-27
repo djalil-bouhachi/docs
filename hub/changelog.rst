@@ -1,6 +1,12 @@
 Changelog
 =========
 
+.. _changelog_2023_04_27:
+
+2023-04-27
+----------
+* Updated the documentation of the  :ref:`path <path_dtl_function>` DTL function with a description of how non-string items in the PROPERTY_PATH list are treated (they are ignored).
+
 .. _changelog_2023_04_25:
 
 2023-04-25
